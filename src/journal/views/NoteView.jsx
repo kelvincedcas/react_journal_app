@@ -179,7 +179,7 @@ export const NoteView = () => {
                 :   <>
                         <div className="border-b-1 border-b-gray-300 w-full my-4"></div>
                         <div className="flex flex-col justify-center items-center gap-4 bg-gray-50 p-6 rounded-lg border-1  border-gray-300">
-                            <img src="https://res.cloudinary.com/ditplyhgn/image/upload/v1752548613/undraw_notify_rnwe_1_aj0uxd.svg" alt="img-url" loading="lazy" className="w-5/10 md:w-3/10"/>
+                            <img src="https://res.cloudinary.com/ditplyhgn/image/upload/v1752674440/undraw_notify_rnwe_1_nxrris.svg" alt="img-url" loading="lazy" className="w-5/10 md:w-3/10"/>
                             <p className="font-ligth text-sm text-neutral-600 mb-3 flex flex-col items-center gap-1">No images uploaded. <span className="text-neutral-800 font-semibold text-md">Please, select some files and upload them.</span></p>
                         </div>  
                     </>
